@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '41264'
     url: http://www.gutenberg.org/2009/agents/41264
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41616#Reminiscences-of-a-Private
 gutenberg_issued: '2012-12-13'
 gutenberg_type: Text
 identifiers:
