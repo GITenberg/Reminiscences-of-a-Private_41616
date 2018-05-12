@@ -1,0 +1,29 @@
+_repo: Reminiscences-of-a-Private_41616
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41616-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Mixson, Frank M.
+    birthdate: 1846
+    gutenberg_agent_id: '41264'
+    url: http://www.gutenberg.org/2009/agents/41264
+description: ''
+gutenberg_issued: '2012-12-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41616'
+  lccn: '10026177'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Confederate States of America. Army. South Carolina Infantry Regiment, 1st'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Personal narratives,
+  Confederate'
+- !lcc 'E456'
+title: "Reminiscences of a Private\r\nby Frank M. Mixson, Company \"E\" 1st S. C.\
+  \ Vols. (Hagood's)"
+url: http://www.gutenberg.org/ebooks/41616
